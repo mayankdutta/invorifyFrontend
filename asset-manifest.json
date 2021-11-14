@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/invorify-frontend/static/css/main.d8c9e6c0.chunk.css",
+    "main.js": "/invorify-frontend/static/js/main.5e142064.chunk.js",
+    "main.js.map": "/invorify-frontend/static/js/main.5e142064.chunk.js.map",
+    "runtime-main.js": "/invorify-frontend/static/js/runtime-main.b4069a9e.js",
+    "runtime-main.js.map": "/invorify-frontend/static/js/runtime-main.b4069a9e.js.map",
+    "static/js/2.0b1dc48d.chunk.js": "/invorify-frontend/static/js/2.0b1dc48d.chunk.js",
+    "static/js/2.0b1dc48d.chunk.js.map": "/invorify-frontend/static/js/2.0b1dc48d.chunk.js.map",
+    "index.html": "/invorify-frontend/index.html",
+    "static/css/main.d8c9e6c0.chunk.css.map": "/invorify-frontend/static/css/main.d8c9e6c0.chunk.css.map",
+    "static/js/2.0b1dc48d.chunk.js.LICENSE.txt": "/invorify-frontend/static/js/2.0b1dc48d.chunk.js.LICENSE.txt",
+    "static/media/logo.ddd5592b.png": "/invorify-frontend/static/media/logo.ddd5592b.png",
+    "static/media/user.06c2296f.png": "/invorify-frontend/static/media/user.06c2296f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4069a9e.js",
+    "static/js/2.0b1dc48d.chunk.js",
+    "static/css/main.d8c9e6c0.chunk.css",
+    "static/js/main.5e142064.chunk.js"
+  ]
+}
